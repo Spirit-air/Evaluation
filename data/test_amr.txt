@@ -1,0 +1,17 @@
+# ::snt What happens to you if you eat watermelon seeds?
+(z1 / event
+      :mod (z2 / amr-unknown)
+      :domain (z3 / you)
+      :condition (z4 / eat-01
+            :ARG0 z3
+            :ARG1 (z5 / seed
+                  :part-of (z6 / watermelon))))# ::snt Where did fortune cookies originate?
+(z1 / originate-01
+      :ARG1 (z2 / cookie
+            :mod (z3 / fortune))
+      :ARG2 (z4 / amr-unknown))# ::snt Why do veins appear blue?
+(z1 / cause-01
+      :ARG0 (z2 / amr-unknown)
+      :ARG1 (z3 / appear-02
+            :ARG1 (z4 / blue
+                  :domain (z5 / vein))))
