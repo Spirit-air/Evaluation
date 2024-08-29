@@ -1,0 +1,11 @@
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+('z1', ':instance', 'cause-01')
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+('z3', ':instance', 'appear-02')
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
+[('z1', ':instance', 'cause-01'), ('z1', ':ARG0', 'z2'), ('z2', ':instance', 'amr-unknown'), ('z1', ':ARG1', 'z3'), ('z3', ':instance', 'appear-02'), ('z3', ':ARG1', 'z4'), ('z4', ':instance', 'blue'), ('z4', ':domain', 'z5'), ('z5', ':instance', 'vein')]
